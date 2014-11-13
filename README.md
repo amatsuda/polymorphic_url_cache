@@ -1,6 +1,6 @@
 # PolymorphicUrlCache
 
-TODO: Write a gem description
+This plugin would double-speed your Rails app. In some cases.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just bundle the gem.
 
 ## Contributing
 

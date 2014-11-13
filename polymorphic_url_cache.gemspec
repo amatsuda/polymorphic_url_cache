@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = PolymorphicUrlCache::VERSION
   spec.authors       = ["Akira Matsuda"]
   spec.email         = ["ronnie@dio.jp"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = 'A Rails plugin that aggressively caches the polymorphic url_for results'
+  spec.description   = "This plugin might speed up your Rails app's slowest part, or might just break your app"
   spec.homepage      = ""
   spec.license       = "MIT"
 
