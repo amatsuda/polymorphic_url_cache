@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ronnie@dio.jp"]
   spec.summary       = 'A Rails plugin that aggressively caches the polymorphic url_for results'
   spec.description   = "This plugin might speed up your Rails app's slowest part, or might just break your app"
-  spec.homepage      = ""
+  spec.homepage      = 'https://github.com/amatsuda/polymorphic_url_cache'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
