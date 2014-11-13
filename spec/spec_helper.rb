@@ -38,7 +38,7 @@ TestApp::Application.routes.draw do
   resources :conferences
 end
 
-require 'url_for_cache'
+require 'polymorphic_url_cache'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
