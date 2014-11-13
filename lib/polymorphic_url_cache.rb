@@ -1,5 +1,3 @@
-require "polymorphic_url_cache/version"
-
 module PolymorphicUrlCache
   extend ActiveSupport::Concern
   included do

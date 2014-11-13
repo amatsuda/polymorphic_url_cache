@@ -1,11 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'polymorphic_url_cache/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "polymorphic_url_cache"
-  spec.version       = PolymorphicUrlCache::VERSION
+  spec.version       = '0.0.1'
   spec.authors       = ["Akira Matsuda"]
   spec.email         = ["ronnie@dio.jp"]
   spec.summary       = 'A Rails plugin that aggressively caches the polymorphic url_for results'

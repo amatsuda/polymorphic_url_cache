@@ -1,3 +1,3 @@
 module PolymorphicUrlCache
-  VERSION = "0.0.1"
+  VERSION = Gem.loaded_specs['polymorphic_url_cache'].version.to_s
 end
